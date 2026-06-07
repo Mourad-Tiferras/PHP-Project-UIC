@@ -26,6 +26,15 @@
                 "Java"
             ],
             "answer": "Golang"
+        },
+        {
+            "question": "Best lang to build undetected ransomware?",
+            "options": [
+                "Golang",
+                "python",
+                "powershell"
+            ],
+            "answer": "Golang"
         }
     ]
 }
