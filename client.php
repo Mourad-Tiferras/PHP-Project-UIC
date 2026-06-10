@@ -64,7 +64,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_POST['submit'])) {
 ?>
 
 <div>
-<h1> All questions displayed: </h1>
+<h1> MCQs Quiz </h1>
 </div>
 
 <?php
