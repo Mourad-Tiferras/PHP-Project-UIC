@@ -10,15 +10,6 @@
             "answer": "Go"
         },
         {
-            "question": "Best school ever?",
-            "options": [
-                "UIC",
-                "1337",
-                "Zone01"
-            ],
-            "answer": "1337"
-        },
-        {
             "question": "What is the best lang to build a C2 Server?",
             "options": [
                 "Bash",
