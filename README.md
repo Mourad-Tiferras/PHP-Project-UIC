@@ -1,6 +1,6 @@
 # PHP-Project-UIC
 
-### Project Report: [](https://docs.google.com/document/d/1ZNwn3yAxWIlUajj8V8iN7pajQS9wXCYAgJxzmn1N7dE/edit?usp=sharing)
+### Project Report: https://docs.google.com/document/d/1ZNwn3yAxWIlUajj8V8iN7pajQS9wXCYAgJxzmn1N7dE/edit?usp=sharing
 
 ## 🎯 Learning Objectives
 
